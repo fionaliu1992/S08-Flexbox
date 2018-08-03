@@ -17,6 +17,17 @@ body {
 }
 
 /* All Boxes -------------------------------*/
+.box {
+	background-color: yellow;
+	text-align: center;
+	line-height: 100px;
+	font-size: 20px;
+	color: white;
+}
 
 
 /* Individual Boxes -------------------------------*/
+.box1 { background-color: maroon;}
+.box2 { background-color: pink;}
+.box3 { background-color: orange;}
+.box4 { background-color: green;}
